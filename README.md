@@ -1,9 +1,9 @@
 # DSA Pattern Recognizer
 
-## 📌 Overview
+# Overview
 This is a Python-based tool that helps identify the pattern of Data Structures and Algorithms (DSA) problems using keyword matching.
 
-## 🚀 Features
+# Features
 - Detects patterns like:
   - Sliding Window
   - Binary Search
@@ -13,13 +13,13 @@ This is a Python-based tool that helps identify the pattern of Data Structures a
 - Provides reasoning for pattern selection
 - Simple command-line interface
 
-## 🛠️ How to Run
+# How to Run
 1. Download the file
 2. Open terminal
 3. Run:
    python dsa_helper.py
 
-## 💡 Example
+# Example
 Input:
 Find a substring with no repeating characters
 
@@ -27,10 +27,10 @@ Output:
 Pattern: Sliding Window  
 Reason: Keyword 'substring' matched
 
-## 📈 Future Improvements
+# Future Improvements
 - Add AI-based pattern detection
 - Improve accuracy using scoring system
 - Add GUI interface
 
-## 📜 License
+# License
 This project is licensed under the MIT License.
